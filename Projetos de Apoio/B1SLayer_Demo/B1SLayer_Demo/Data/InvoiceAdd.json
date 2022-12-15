@@ -1,0 +1,29 @@
+﻿{
+  "Invoice": {
+    "InvoiceInfo": [
+      {
+        "DocumentType": "N",
+        "DocDate": "2019-06-05T14:24:45",
+        "docduedate": "2019-06-22T14:24:45",
+        "Note": "Teste dos sistemas SAP",
+        "Emitida": "SAP",
+        "idexterno": "12345678910",
+        "bplid": 1,
+        "Projeto": "01",
+        "InvoiceItens": [
+          {
+            "ItemCode": "2",
+            "Quantity": 1,
+            "Price": 123,
+            "LineTotal": 123,
+            "utilizacao": "9"
+          }
+        ],
+        "Payments": {
+          "GroupNum": 4,
+          "PaymentsMethod": "Carteira"
+        }
+      }
+    ]
+  }
+}
